@@ -2,12 +2,13 @@
 
 body{
     font-family: 'Nunito', sans-serif;
-    color: blue
 }
+
 
 
 h2{
     text-align: center;
+    color:blue;
 }
 
 .container{
@@ -35,15 +36,13 @@ label{
     text-align: center;
 }
 
-#bt-dob-check{
+#check-dob{
     display: block;
     margin: auto;
     background: transparent;
     border-radius: 0.3rem;
     padding: 5px;
-    cursor: pointer;
-    background-color: blue;
-    color: white;
-    font-weight:550;
+    background-color:white ;
+    color:blue;
 }
-
+© 2021 GitHub, Inc.
